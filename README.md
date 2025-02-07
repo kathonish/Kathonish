@@ -8,7 +8,7 @@
 </p>
 </body>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1332395955445567542?theme=dark&bg=06154a&animated=true&hideDiscrim=false&borderRadius=20px)](https://discord.com/users/620600867816734742)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1052266962266370129?theme=dark&bg=06154a&animated=true&hideDiscrim=false&borderRadius=20px)](https://discord.com/users/620600867816734742)
 
  <h1 style="font-size:300%;"><img src = "https://cdn.discordapp.com/emojis/812305547436883968.png?v=1" high="20px" width="40px"> Social Media</h1>
 <a href="https://discord.com/users/1332395955445567542" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
